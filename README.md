@@ -19,6 +19,11 @@ Make the game :
 make
 ```
 
+Make the libs :
+```shell
+make libs
+```
+
 Re make the game :
 ```shell
 # This command will deleted all the compiled files
