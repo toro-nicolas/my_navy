@@ -1,5 +1,7 @@
 # my_navy
 
+![my_navy](https://github.com/toro-nicolas/my_navy/assets/146118419/59b17b79-6506-4be9-84ab-6a331c00d770)
+
 ### Table of contents
 - [Project goal](https://github.com/toro-nicolas/my_navy#project-goal)
 - [How to compile it ?](https://github.com/toro-nicolas/my_navy#how-to-compile-it-)
