@@ -5,7 +5,7 @@
 - [How to compile it ?](https://github.com/toro-nicolas/my_navy#how-to-compile-it-)
 - [How to use it ?](https://github.com/toro-nicolas/my_navy#how-to-use-it-)
 - [How to create a valid map ?](https://github.com/toro-nicolas/my_navy#how-to-create-a-valid-map-)
-- [Final result on my.epitech.eu](https://github.com/toro-nicolas/my_navy#final-result-on-my.epitech.eu)
+- [Final result on my.epitech.eu](https://github.com/toro-nicolas/my_navy#final-result-on-myepitecheu)
 
 ### Project goal
 Reproduction of a naval battle game in C.    
