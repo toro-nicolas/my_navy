@@ -3,11 +3,11 @@
 ![my_navy](https://github.com/toro-nicolas/my_navy/assets/146118419/59b17b79-6506-4be9-84ab-6a331c00d770)
 
 ### Table of contents 📑
-- [Project goal](https://github.com/toro-nicolas/my_navy#project-goal)
-- [How to compile it ?](https://github.com/toro-nicolas/my_navy#how-to-compile-it-)
-- [How to use it ?](https://github.com/toro-nicolas/my_navy#how-to-use-it-)
-- [How to create a valid map ?](https://github.com/toro-nicolas/my_navy#how-to-create-a-valid-map-)
-- [Final result on my.epitech.eu](https://github.com/toro-nicolas/my_navy#final-result-on-myepitecheu)
+- [Project goal](https://github.com/toro-nicolas/my_navy#project-goal-)
+- [How to compile it ?](https://github.com/toro-nicolas/my_navy#how-to-compile-it--)
+- [How to use it ?](https://github.com/toro-nicolas/my_navy#how-to-use-it--)
+- [How to create a valid map ?](https://github.com/toro-nicolas/my_navy#how-to-create-a-valid-map--)
+- [Final result on my.epitech.eu](https://github.com/toro-nicolas/my_navy#final-result-on-myepitecheu-)
 
 ### Project goal 🎯
 Reproduction of a naval battle game in C.    
