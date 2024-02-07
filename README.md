@@ -1,19 +1,19 @@
-# my_navy
+# my_navy ⚓
 
 ![my_navy](https://github.com/toro-nicolas/my_navy/assets/146118419/59b17b79-6506-4be9-84ab-6a331c00d770)
 
-### Table of contents
+### Table of contents 📑
 - [Project goal](https://github.com/toro-nicolas/my_navy#project-goal)
 - [How to compile it ?](https://github.com/toro-nicolas/my_navy#how-to-compile-it-)
 - [How to use it ?](https://github.com/toro-nicolas/my_navy#how-to-use-it-)
 - [How to create a valid map ?](https://github.com/toro-nicolas/my_navy#how-to-create-a-valid-map-)
 - [Final result on my.epitech.eu](https://github.com/toro-nicolas/my_navy#final-result-on-myepitecheu)
 
-### Project goal
+### Project goal 🎯
 Reproduction of a naval battle game in C.    
 The program uses signals (SIGUSR1 and SIGUSR2) and the TCP protocol to communicate between players.
 
-### How to compile it ?
+### How to compile it ? 🛠️
 Make the game :
 ```shell
 make
@@ -46,7 +46,7 @@ Make and run a unit_tests file with the coverage :
 make tests_run
 ```
 
-### How to use it ?
+### How to use it ? 💻
 Player 1 :
 ```Shell
 ./my_navy [map]
@@ -56,7 +56,7 @@ Player 2 :
 ./my_navy [player_one_pid] [map]
 ```
 
-### How to create a valid map ?
+### How to create a valid map ? 🛥
 To make a valid map, you need a file containing 4 boats in this form : `[length]:[start_position]:[end_position]`.     
 Each boat must be a different size. Boats can't be diagonal, cross each other or be on the same coordinates.
 
@@ -68,7 +68,7 @@ Example :
 5:D7:H7
 ```
 
-### Final result on my.epitech.eu
+### Final result on my.epitech.eu 🚩
 |                      Test name                       | Status |
 |:----------------------------------------------------:|:------:|
 |                   Is not a cheater                   |   ✅    |
